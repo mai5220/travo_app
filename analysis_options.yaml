@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    avoid_print: error
+    constant_identifier_names: false
+    non_constant_identifier_names: false
+    invalid_annotation_target: false
+
+linter:
+  rules:
+    - prefer_single_quotes
+    - prefer_final_fields
+    - prefer_final_in_for_each
+    - prefer_final_locals
+    - only_throw_errors
+    - cancel_subscriptions
+    - close_sinks
+    - prefer_null_aware_operators
+    - prefer_spread_collections

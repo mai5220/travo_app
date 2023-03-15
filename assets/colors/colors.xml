@@ -1,0 +1,7 @@
+<resources>
+    <color name="primaryLight">#FFA784</color>
+    <color name="primaryRegular">#FF6C31</color>
+    <color name="primaryMedium">#FF7C48</color>
+    <color name="primary">#F34500</color>
+    <color name="primaryDark">#AF3200</color>
+</resources>
